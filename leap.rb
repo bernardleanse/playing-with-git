@@ -12,3 +12,5 @@ end
 p vert_mirror('ksld\sdadg\asdg')
 print # I've just learned that strings will be interpreted literally if you do singles,
 # but if you do "" then /n and other escape sequences will be interpreted
+
+#nah bruv this is long

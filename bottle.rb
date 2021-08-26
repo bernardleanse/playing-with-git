@@ -10,3 +10,5 @@ puts contentWeight(120, "2 times smaller") # -----> 80
 # so now lets figure out how to do do it when it says smaller
 # bottleweight can be 120. the contents is 2 times smaller than the bottle.
 # let bottle = x...2x + x = 120...3x = 120...x = 40
+
+yo = 'fuck'
