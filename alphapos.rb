@@ -16,5 +16,7 @@ def alphabet_position(text)
   text.chars.select{|ch| ch.includes_letters?}.map{|ch| ch.give_alpha_pos}.join(" ")
 end
 
+#Im adding this via github 
+
 
 puts alphabet_position("The sunset sets at twelve o' clock.")
