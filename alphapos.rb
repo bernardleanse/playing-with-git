@@ -17,6 +17,7 @@ def alphabet_position(text)
 end
 
 #Im adding this via github 
+#now on the vscode ting
 
 
 puts alphabet_position("The sunset sets at twelve o' clock.")
